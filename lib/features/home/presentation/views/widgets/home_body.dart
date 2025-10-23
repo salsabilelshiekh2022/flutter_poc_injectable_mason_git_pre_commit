@@ -11,7 +11,7 @@ class HomeBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (context) => HomeCubit(getIt<HomeRepo>()),
-      child: Center(child: Text('Home Body')),
+      child: const Center(child: Text('Home Body')),
     );
   }
 }
