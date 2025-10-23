@@ -12,8 +12,8 @@
 import 'package:get_it/get_it.dart' as _i174;
 import 'package:injectable/injectable.dart' as _i526;
 
-import '../../feature/home/data/repo/home_repo.dart' as _i328;
-import '../../feature/home/data/repo/home_repo_impl.dart' as _i909;
+import '../../features/home/data/repo/home_repo.dart' as _i328;
+import '../../features/home/data/repo/home_repo_impl.dart' as _i909;
 
 extension GetItInjectableX on _i174.GetIt {
   // initializes the registration of main-scope dependencies inside of GetIt

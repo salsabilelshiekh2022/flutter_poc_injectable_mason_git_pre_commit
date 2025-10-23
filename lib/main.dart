@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_poc_injectable_mason_hooks/feature/home/presentation/views/home_view.dart';
+import 'package:flutter_poc_injectable_mason_hooks/features/home/presentation/views/home_view.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_poc_injectable_mason_hooks/core/di/dependency_injection.dart';
-import 'package:flutter_poc_injectable_mason_hooks/feature/home/data/repo/home_repo.dart';
-import 'package:flutter_poc_injectable_mason_hooks/feature/home/presentation/views/cubit/home_cubit.dart';
+import 'package:flutter_poc_injectable_mason_hooks/features/home/data/repo/home_repo.dart';
+import 'package:flutter_poc_injectable_mason_hooks/features/home/presentation/views/cubit/home_cubit.dart';
 
 class HomeBody extends StatelessWidget {
   const HomeBody({super.key});
