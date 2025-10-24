@@ -115,12 +115,12 @@ This creates a `mason.yaml` file in your project root.
 
 #### 3. Add a Brick
 ```bash
-mason add <brick_name>
+mason new <brick_name>
 ```
 
 **Example:**
 ```bash
-mason add feature_brick
+mason new feature_brick
 ```
 
 #### 4. Organize Your Bricks (Optional)
